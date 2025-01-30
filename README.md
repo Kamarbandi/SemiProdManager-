@@ -16,4 +16,11 @@ A semiconductor factory production management system developed using **Java Spri
 
 ---
 
+**Note**:
+- You need install Java your PC, Java 8 or +
+- Install Kafka https://kafka.apache.org/quickstart Apache Kafka can be started using KRaft or ZooKeeper. 
+- More info you can get in spring boot documentation https://spring.io/projects/spring-kafka
+
+---
+
 MQTT in developing process in develop branch
