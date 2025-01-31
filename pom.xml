@@ -84,11 +84,10 @@
 			<optional>true</optional>
 		</dependency>
 
-		<!--		Если вы хотите использовать Hibernate Validator для валидации данных в реальном времени,-->
-		<!--		достаточно только зависимости hibernate-validator.-->
-		<!--		Если вы хотите добавлять дополнительные проверки на этапе компиляции, чтобы убедиться,-->
-		<!--		что аннотации валидации применяются правильно, вам следует добавить зависимость -->
-		<!--		hibernate-validator-annotation-processor.-->
+<!--		If you want to use Hibernate Validator for real-time data validation,-->
+<!--		the hibernate-validator dependency is sufficient.-->
+<!--		If you want to add additional compile-time checks to ensure that validation annotations are applied correctly,-->
+<!--		you should add the hibernate-validator-annotation-processor dependency.-->
 		<!-- https://mvnrepository.com/artifact/org.hibernate.validator/hibernate-validator -->
 		<dependency>
 			<groupId>org.hibernate.validator</groupId>
