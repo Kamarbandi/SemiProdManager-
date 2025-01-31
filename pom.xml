@@ -133,6 +133,13 @@
 		</dependency>
 		<!--		end kafka-->
 
+
+		<dependency>
+			<groupId>org.springframework.integration</groupId>
+			<artifactId>spring-integration-mqtt</artifactId>
+			<version>5.5.13</version> <!-- Убедитесь, что используете последнюю версию -->
+		</dependency>
+
 	</dependencies>
 
 	<build>
